@@ -1,0 +1,28 @@
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.exe
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.deps.json
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.runtimeconfig.json
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.runtimeconfig.dev.json
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.dll
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.pdb
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.csproj.AssemblyReference.cache
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.AssemblyInfoInputs.cache
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.AssemblyInfo.cs
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.csproj.CoreCompileInputs.cache
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.dll
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.pdb
+C:\Users\Quoc-Bao NGUYEN\Desktop\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.genruntimeconfig.cache
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.exe
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.deps.json
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.runtimeconfig.json
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.runtimeconfig.dev.json
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.dll
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\bin\Debug\netcoreapp3.1\FightingGame.pdb
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.csproj.AssemblyReference.cache
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.AssemblyInfoInputs.cache
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.AssemblyInfo.cs
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.csproj.CoreCompileInputs.cache
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.dll
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.pdb
+D:\Cours Cnam-Enjmin\1. USRS45  Programmation avec C#  notions de base\3. Module 3\JeuxCombat\FightingGame\FightingGame\obj\Debug\netcoreapp3.1\FightingGame.genruntimeconfig.cache
